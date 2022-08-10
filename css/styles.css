@@ -388,7 +388,7 @@
   */
 
   #cortland-tile-background {
-    background-image: url("../images/Cortland_ribeye-scene-5.jpg");
+    background-image: url("../img/Cortland_ribeye-scene-5.jpg");
     background-position: 49% 66%;
     height: calc((200vh - 124px)/5);
   }
